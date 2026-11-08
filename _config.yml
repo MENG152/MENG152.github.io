@@ -1,5 +1,7 @@
 title: 严梦梦的博客
 description: 记录我的学习和生活
+theme: minima
 
 header_pages:
+  - index.md
   - README.md
