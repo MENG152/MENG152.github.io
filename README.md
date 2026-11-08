@@ -1,4 +1,4 @@
 ---
 layout: home
-title: 欢迎来到严梦梦的博客
+title: 我的学习文章
 ---
